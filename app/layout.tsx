@@ -16,7 +16,6 @@ export const metadata: Metadata = {
     title: "Sagarmatha Multipurpose",
     description: "Creativity, Your Own Product Concept, and Innovation with Social Impact",
     type: "website",
-    icons: /
   },
 }
 
