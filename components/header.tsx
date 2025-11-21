@@ -21,7 +21,7 @@ export default function Header() {
           <div className="flex items-center gap-2">
             <div className="w-8 h-8 bg-primary rounded-full flex items-center justify-center">
                <img
-              src="/Capture.png"
+              src="/Capture-removebg-preview.png"
               alt="Organic vegetables"
               className="w-full h-auto rounded-xl shadow-lg"
             />
