@@ -11,11 +11,12 @@ export const metadata: Metadata = {
   title: "Sagarmatha Multipurpose - Organic & Vegetarian Products",
   description:
     "Sagarmatha Multipurpose Pvt. Ltd. - Organic, vegetarian products with innovation and social impact in Nepal",
-  generator: "v0.app",
+  generator: "Sagarmatha",
   openGraph: {
     title: "Sagarmatha Multipurpose",
     description: "Creativity, Your Own Product Concept, and Innovation with Social Impact",
     type: "website",
+    icons: /
   },
 }
 
