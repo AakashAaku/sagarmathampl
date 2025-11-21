@@ -21,11 +21,11 @@ export default function Header() {
           <div className="flex items-center gap-2">
             <div className="w-8 h-8 bg-primary rounded-full flex items-center justify-center">
                <img
-              src="/organic-vegetables-farm-fresh-produce-nepal.jpg"
+              src="/Capture.png"
               alt="Organic vegetables"
               className="w-full h-auto rounded-xl shadow-lg"
             />
-              <span className="text-primary-foreground font-bold text-sm">S</span>
+              
             </div>
             <span className="font-bold text-lg text-foreground hidden sm:block">Sagarmatha</span>
           </div>
